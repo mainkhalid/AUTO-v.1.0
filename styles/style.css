@@ -264,14 +264,8 @@ button.normal:hover {
   border-bottom-left-radius: 0;
 }
 
-/*single product*/
-#prodetails {
-  display: flex;
-  margin-top: 20px;
-}
-#prodetails .single-pro-image {
-  width: 40%;
-  margin-right: 50px;
+.single-page {
+  color: var(--color-p);
 }
 
 #page-header.about-header {
