@@ -31,6 +31,5 @@ document.addEventListener("DOMContentLoaded", function() {
         return;
     }
     
-    // If payment is made, allow normal site functionality
-    // Normal website content will be loaded here...
+    
 });
